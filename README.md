@@ -8,8 +8,9 @@
 
 - **Instalação:**
 
-  - sudo cp xmatece /bin/
-  - sudo cp xmatece.desktop /usr/share/xsessions/
+  - `sudo cp xmatece /bin/`
+  - `sudo chmod +x /bin/xmatece`
+  - `sudo cp xmatece.desktop /usr/share/xsessions/`
 
 #### Dependências necessária:
 
