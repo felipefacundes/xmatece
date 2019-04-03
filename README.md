@@ -28,7 +28,7 @@
 
 ### Essa será a aparência:
 
-![Aparência]()
+![Aparência](https://raw.githubusercontent.com/felipefacundes/xmatece/master/xmatece.png)
 
 ##### Para essa aparência, use esse tema GTK:
 
