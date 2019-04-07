@@ -12,7 +12,7 @@
   - `sudo chmod +x /bin/xmatece`
   - `sudo cp xmatece.desktop /usr/share/xsessions/`
 
-#### Dependências necessária:
+#### Dependências necessárias:
 
   - gnome-keyring
   - mate-polkit
@@ -26,7 +26,12 @@
   - xfce4-whiskermenu-plugin
   - xfce4-weather-plugin
   - xfce4-sensors-plugin
+  
+#### Dependências opcionais:
 
+  - qt5-base
+  - qt5-styleplugins
+  
 ### Essa será a aparência:
 
 ![Aparência](https://raw.githubusercontent.com/felipefacundes/xmatece/master/xmatece.png)
