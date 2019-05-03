@@ -6,11 +6,11 @@ export QT_QPA_PLATFORMTHEME=gtk2
 export QT_STYLE_OVERRIDE=gtk2
 eval $(/usr/bin/gnome-keyring-daemon --start --components=pkcs11,secrets,ssh)
 export SSH_AUTH_SOCK
-/usr/lib/mate-polkit/polkit-mate-authentication-agent-11 &
+##/## /usr/lib/mate-polkit/polkit-mate-authentication-agent-11 &
 /usr/lib/mate-settings-daemon/mate-settings-daemon &
 /usr/lib/mate-notification-daemon/mate-notification-daemon &
-xfce4-power-manager &
-exec xfce4-panel &
+##/## xfce4-power-manager &
+xfce4-panel &
 xbindkeys &
 nm-applet &
 nitrogen --restore &
