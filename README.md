@@ -26,6 +26,7 @@
   - xfce4-whiskermenu-plugin
   - xfce4-weather-plugin
   - xfce4-sensors-plugin
+  - xbindkeys
   
 #### Dependências opcionais:
 
