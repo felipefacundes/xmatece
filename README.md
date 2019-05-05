@@ -7,7 +7,8 @@
 ### Usando menos de 400 MB de Ram ;)
 
 - **Instalação:**
-
+  - `git clone https://github.com/felipefacundes/xmatece`
+  - `cd xmatece`
   - `sudo cp xmatece /bin/`
   - `sudo chmod +x /bin/xmatece`
   - `sudo cp xmatece.desktop /usr/share/xsessions/`
